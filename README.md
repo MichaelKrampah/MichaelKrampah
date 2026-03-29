@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a computer science student with a passion for data science. I'm currently exploring various aspects of computer science and data science.<br> 
+I'm Michael, Software Developer<br> 
 
 LinkedIn: www.linkedin.com/in/michael-krampah-515aa021b<br>
 Email: mickykramps9@gmail.com<br>
